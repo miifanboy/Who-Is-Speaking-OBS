@@ -33,13 +33,13 @@
     },
     "platformConfig": {
         "macos": {
-            "bundleId": "com.example.plugintemplate-for-obs"
+            "bundleId": "com.who-is-speaking-obs.plugin"
         }
     },
-    "name": "plugintemplate-for-obs",
-    "displayName": "Plugin Template for OBS",
-    "version": "1.0.0",
-    "author": "Your Name Here",
-    "website": "https://example.com",
-    "email": "me@example.com"
+    "name": "who-is-speaking-obs",
+    "displayName": "Who Is Speaking OBS Plugin",
+    "version": "0.1.0",
+    "author": "Mii Fanboy",
+    "website": "https://github.com/miifanboy/Who-Is-Speaking-OBS",
+    "email": "eren.erver@gmail.com"
 }
