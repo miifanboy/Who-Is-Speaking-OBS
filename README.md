@@ -1,4 +1,4 @@
-# OBS Plugin Template
+# Who Is Speaking OBS (WIP, DON'T USE YET)
 
 ## Introduction
 
